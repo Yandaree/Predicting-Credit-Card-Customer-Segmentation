@@ -1,6 +1,7 @@
 # Predicting-Credit-Card-Customer-Segmentation
 Akbank Machine Learning Project
 Bu projede cinsiyet,yaş,eğitim ve yıllık gelirler gibi çeşitli verilerle insanların kredi kartı kullanımları üzerine bir proje hazırladım. Python kütüphaneleriyle de görselleştirerek makine öğrenmesi gerçekleştirdim.
+
 Mean Squared Error: 0.06910167818361303
 Mean Absolute Error: 0.06910167818361303
 Confusion Matrix:
